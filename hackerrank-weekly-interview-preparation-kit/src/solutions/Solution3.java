@@ -10,6 +10,7 @@ public class Solution3 {
 	{	
 		String result = Solution3.timeConversion("07:05:45PM");
 		System.out.println(result);
+
 	}
 	
 	public static String timeConversion(String s) {
