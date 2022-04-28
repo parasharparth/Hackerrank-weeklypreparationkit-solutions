@@ -15,8 +15,7 @@ public class Solution1 {
 		arr.add(2);
 		arr.add(3);
 		arr.add(0);
-		arr.add(-1);
-		
+		arr.add(-1);	
 		arr.add(-2);
 		arr.add(-3);
 		Solution1.plusMinus(arr);
